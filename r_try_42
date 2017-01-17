@@ -1,0 +1,2 @@
+seed <- 42 
+print (seed)
